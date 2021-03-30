@@ -1,0 +1,908 @@
+[24-Feb-2021 23:48:52 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[24-Feb-2021 23:52:28 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:28 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:28 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:28 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 63
+[24-Feb-2021 23:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 63
+[24-Feb-2021 23:52:36 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:36 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:36 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 61
+[24-Feb-2021 23:52:36 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 63
+[24-Feb-2021 23:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 63
+[24-Feb-2021 23:57:43 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[24-Feb-2021 23:59:57 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[25-Feb-2021 00:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 77
+[25-Feb-2021 00:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 77
+[25-Feb-2021 00:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 77
+[25-Feb-2021 00:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 77
+[25-Feb-2021 00:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 77
+[25-Feb-2021 01:03:25 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[24-Feb-2021 23:16:32 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 283
+[24-Feb-2021 23:16:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 283
+[24-Feb-2021 23:18:01 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:29 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:31 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:47 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 294
+[24-Feb-2021 23:18:58 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:18:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:19:35 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:19:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:19:43 America/Mexico_City] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 67
+[24-Feb-2021 23:19:50 America/Mexico_City] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 67
+[24-Feb-2021 23:20:08 America/Mexico_City] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 67
+[24-Feb-2021 23:20:15 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:20:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:21:14 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:21:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:21:29 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:21:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:22:03 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:22:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 253
+[24-Feb-2021 23:24:12 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[24-Feb-2021 23:24:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[25-Feb-2021 19:04:00 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[25-Feb-2021 13:06:26 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[25-Feb-2021 13:06:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[26-Feb-2021 00:31:06 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[26-Feb-2021 02:21:54 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[25-Feb-2021 23:15:20 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[25-Feb-2021 23:15:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[01-Mar-2021 23:07:15 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[01-Mar-2021 23:07:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:08 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:18 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:28 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 19:19:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:35:20 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:35:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:35:28 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:35:28 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:35:28 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:35:28 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[05-Mar-2021 20:35:44 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:35:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:36:14 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:36:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:39:18 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:18 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:18 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:18 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:39:24 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:24 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:24 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:39:24 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[05-Mar-2021 20:43:54 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:43:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:44:03 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:44:03 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:44:03 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:44:03 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[05-Mar-2021 20:46:13 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:46:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:46:17 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:46:17 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:46:17 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:46:17 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[05-Mar-2021 20:48:41 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:48:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:48:46 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:48:46 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:48:46 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 5
+[06-Mar-2021 02:48:46 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[06-Mar-2021 02:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 7
+[05-Mar-2021 20:49:40 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:49:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:49:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:49:44 UTC] PHP Notice:  Undefined variable: categoria_usuario in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:49:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:49:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:49:44 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:49:44 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[06-Mar-2021 02:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[05-Mar-2021 20:50:01 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:50:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:50:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:50:05 UTC] PHP Notice:  Undefined variable: categoria_usuario in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:50:05 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:05 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:05 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:05 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[06-Mar-2021 02:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[05-Mar-2021 20:50:46 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:50:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:50:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:50:51 UTC] PHP Notice:  Undefined variable: categoria_usuario in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:50:51 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:51 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:51 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:50:51 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 10
+[06-Mar-2021 02:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 10
+[05-Mar-2021 20:51:09 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:51:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:51:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:51:14 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:51:14 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:51:14 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:51:14 UTC] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[06-Mar-2021 02:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 8
+[05-Mar-2021 20:52:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:52:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:52:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:52:06 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:52:06 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[06-Mar-2021 02:52:06 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 6
+[05-Mar-2021 20:53:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:53:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:53:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:53:07 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 24
+[05-Mar-2021 20:53:24 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:53:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:53:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:53:28 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 24
+[05-Mar-2021 20:57:59 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 20:57:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 02:58:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 02:58:04 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 24
+[05-Mar-2021 21:00:20 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:00:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:01:28 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:01:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:01:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:01:33 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 24
+[05-Mar-2021 21:01:37 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:01:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:01:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:01:45 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 24
+[05-Mar-2021 21:02:15 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:02:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:02:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:02:21 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 26
+[05-Mar-2021 21:02:29 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:02:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:03:08 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:03:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:03:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:03:12 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 26
+[05-Mar-2021 21:04:38 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:04:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:04:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:04:45 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 26
+[05-Mar-2021 21:05:10 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:05:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:05:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:05:15 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 26
+[05-Mar-2021 21:06:07 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:06:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:06:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 4
+[06-Mar-2021 03:06:11 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 26
+[05-Mar-2021 21:07:33 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:07:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:07:38 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[05-Mar-2021 21:08:22 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:08:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:08:26 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[05-Mar-2021 21:08:40 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:08:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:09:00 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:09:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:09:12 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[05-Mar-2021 21:09:51 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:09:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:10:15 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[05-Mar-2021 21:10:59 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:10:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:11:05 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:12:51 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:12:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:12:57 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:12:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[06-Mar-2021 03:13:13 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[05-Mar-2021 21:13:38 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:13:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:37 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:44 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:49 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:17:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:18:29 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[05-Mar-2021 21:18:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 17:53:22 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[09-Mar-2021 17:53:22 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[09-Mar-2021 20:27:22 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 20:27:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 02:27:42 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 02:31:25 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:31:25 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:31:25 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:31:25 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:31:25 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:31:25 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:31:25 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 51
+[09-Mar-2021 20:31:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 51
+[09-Mar-2021 20:35:50 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 20:35:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 02:35:56 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 02:35:58 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:35:58 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:35:58 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:35:58 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:35:58 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:35:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:35:58 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:35:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:36:06 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 02:36:07 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:07 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:07 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:36:07 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:07 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:07 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:36:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:36:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:44 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:36:44 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:44 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:44 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:36:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:36:57 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:57 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:36:57 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:36:57 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:57 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:36:57 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:36:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:38:47 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 20:38:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 02:38:59 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 02:39:01 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:39:01 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:39:01 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:39:01 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:01 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:01 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:01 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:39:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:39:48 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:39:48 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:39:48 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:39:48 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:48 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:39:48 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:39:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:40:10 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:40:10 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:40:10 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:40:10 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:10 America/Mexico_City] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:10 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:40:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:40:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:40:44 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[10-Mar-2021 02:40:44 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 16
+[09-Mar-2021 20:40:44 America/Mexico_City] PHP Warning:  include(/conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:44 America/Mexico_City] PHP Warning:  include(/conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:44 America/Mexico_City] PHP Warning:  include(): Failed opening '/conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 34
+[09-Mar-2021 20:40:44 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[09-Mar-2021 20:40:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 44
+[10-Mar-2021 02:40:58 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:40:58 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:40:58 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 20:40:58 America/Mexico_City] PHP Warning:  include(/conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:40:58 America/Mexico_City] PHP Warning:  include(/conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:40:58 America/Mexico_City] PHP Warning:  include(): Failed opening '/conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:40:58 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 43
+[09-Mar-2021 20:40:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 43
+[10-Mar-2021 02:42:39 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:42:39 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:42:39 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 20:42:39 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:39 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:39 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:39 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 41
+[09-Mar-2021 20:42:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 41
+[09-Mar-2021 20:42:45 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 20:42:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 02:42:54 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 02:42:56 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:42:56 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:42:56 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 20:42:56 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:56 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:56 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 33
+[09-Mar-2021 20:42:56 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 41
+[09-Mar-2021 20:42:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 41
+[10-Mar-2021 02:43:11 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:43:11 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 02:43:11 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 20:43:11 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[09-Mar-2021 20:44:47 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 20:44:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:07:47 America/Mexico_City] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 71
+[09-Mar-2021 22:08:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:08:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:10:05 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:10:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:11:12 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:12:25 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:12:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:16:52 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:16:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:24 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:27 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:32 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:40 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:43 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:44 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:46 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:59 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:18:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:21:56 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:21:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:22:08 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:22:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:23:05 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:23:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:23:08 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:23:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:27:21 America/Mexico_City] PHP Notice:  Undefined variable: fecha_corte_posterior in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 53
+[09-Mar-2021 22:27:21 America/Mexico_City] PHP Notice:  Undefined variable: fecha_corte_posterior in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 66
+[09-Mar-2021 22:27:21 America/Mexico_City] PHP Notice:  Undefined variable: fecha_corte_posterior in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 86
+[09-Mar-2021 22:27:21 America/Mexico_City] PHP Notice:  Undefined variable: fecha_corte_posterior in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 108
+[09-Mar-2021 22:27:21 America/Mexico_City] PHP Notice:  Undefined variable: fecha_corte_posterior in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 129
+[09-Mar-2021 22:27:59 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:27:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:28:02 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:28:02 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:28:02 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:28:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:38:46 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:38:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:38:49 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:38:49 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:38:49 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:38:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:39:13 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:39:13 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:39:13 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:39:13 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:13 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:13 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:13 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:39:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[10-Mar-2021 04:39:18 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:39:18 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:39:18 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:39:18 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:18 America/Mexico_City] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:18 America/Mexico_City] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 28
+[09-Mar-2021 22:39:18 America/Mexico_City] PHP Notice:  Undefined variable: con in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[09-Mar-2021 22:39:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 38
+[10-Mar-2021 04:40:00 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:40:00 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:40:00 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:40:14 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:40:14 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:40:14 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:43:02 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:43:02 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:43:02 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:44:18 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:44:18 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:44:18 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:45:13 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:45:13 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:45:13 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:45:38 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:45:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:45:47 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[10-Mar-2021 04:45:49 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:45:49 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:45:49 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:45:49 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[10-Mar-2021 04:46:16 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:46:16 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:46:16 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:46:16 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[10-Mar-2021 04:47:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:47:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:47:59 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:47:59 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[10-Mar-2021 04:48:04 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:48:04 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:48:04 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:48:04 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[09-Mar-2021 22:48:11 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:48:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:48:17 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:48:17 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:48:17 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:48:17 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[09-Mar-2021 22:50:35 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:50:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:50:46 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:50:46 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:50:46 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:50:46 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[09-Mar-2021 22:51:54 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:51:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:51:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:51:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:51:59 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:51:59 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[09-Mar-2021 22:53:53 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:53:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:53:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:53:59 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[10-Mar-2021 04:53:59 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[09-Mar-2021 22:53:59 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[10-Mar-2021 04:56:38 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:56:38 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:56:38 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:56:38 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:56:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:58:30 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:58:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[10-Mar-2021 04:58:32 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:58:32 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[10-Mar-2021 04:58:32 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[09-Mar-2021 22:58:32 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:58:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:58:48 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[09-Mar-2021 22:58:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 15:22:44 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 15:22:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 15:23:06 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 15:23:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 21:23:21 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 27
+[13-Mar-2021 21:23:32 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[13-Mar-2021 21:23:32 UTC] PHP Warning:  include(conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[13-Mar-2021 21:23:32 UTC] PHP Warning:  include(): Failed opening 'conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 15
+[13-Mar-2021 15:23:32 America/Mexico_City] PHP Notice:  Undefined variable: total_pagar in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/corteCaja.php on line 54
+[13-Mar-2021 21:23:59 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[13-Mar-2021 21:23:59 UTC] PHP Warning:  include(./conexionbd.php): failed to open stream: No such file or directory in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[13-Mar-2021 21:23:59 UTC] PHP Warning:  include(): Failed opening './conexionbd.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/totalVentasDia.php on line 15
+[13-Mar-2021 15:23:59 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 15:23:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[13-Mar-2021 21:49:30 UTC] PHP Notice:  Undefined index: autentificado in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/menuPrincipal.php on line 17
+[14-Mar-2021 13:54:37 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[14-Mar-2021 13:54:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[14-Mar-2021 19:54:42 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 65
+[14-Mar-2021 19:54:44 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 65
+[14-Mar-2021 19:54:45 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 65
+[14-Mar-2021 19:54:45 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 65
+[14-Mar-2021 19:54:45 UTC] PHP Notice:  Undefined variable: gran_total in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/ventasrango.php on line 65
+[19-Mar-2021 22:50:05 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[19-Mar-2021 22:50:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[19-Mar-2021 22:51:11 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[19-Mar-2021 22:51:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[29-Mar-2021 13:03:46 America/Mexico_City] PHP Notice:  Undefined variable: mysqli in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257
+[29-Mar-2021 13:03:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php:257
+Stack trace:
+#0 {main}
+  thrown in /home/kusoftde/michelocas.kusoftdevelopment.com/ventas/listadoventas.php on line 257

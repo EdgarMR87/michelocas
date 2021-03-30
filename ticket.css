@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Atma', cursive;
+}
+
+body{
+    height: 100%;
+}
+
+@media print {
+    @page { margin: 0;
+     size: auto; }
+}
+
+td,
+th,
+tr,
+table {
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}
+
+td.producto,
+th.producto {
+    width: 120px;
+    max-width: 120px;
+    font-size: 12px;
+}
+
+td.cantidad,
+th.cantidad {
+    width: 42px;
+    max-width: 42px;
+    word-break: break-all;
+    font-size: 12px;
+}
+
+td.precio,
+th.precio {
+    width: 69px;
+    max-width: 69px;
+    word-break: break-all;
+    font-size: 12px;
+}
+
+.centrado {
+    text-align: center;
+    align-content: center;
+}
+
+.ticket {
+    width: 265px;
+    max-width: 265px;
+}
+
+.ticket table{
+    width: 100%;
+}
+
+img {
+    max-width: inherit;
+    width: inherit;
+    width: 200px;
+    height: 150px;
+    margin-left: 40px;
+}
+
+.titulo-ticket{
+    text-align: right; 
+    font-size: 13px; 
+    font-weight: bold;
+}
+
+.imp-ticket{
+    text-align: right; 
+    font-size: 15px; 
+    font-weight: bold;
+}
+
+.margen-alto-ticket{
+    margin-top: -40px;
+
+}
+
+.negrita-16{
+    font-weight: bold;
+    font-size: 16px;
+}
